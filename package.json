@@ -1,0 +1,22 @@
+{
+  "name": "test-pack",
+  "version": "1.0.0",
+  "description": "create new pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kvi8312/Test.git"
+  },
+  "keywords": [
+    "test-pack"
+  ],
+  "author": "Phyo Thu Ya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kvi8312/Test/issues"
+  },
+  "homepage": "https://github.com/Kvi8312/Test#readme"
+}
